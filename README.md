@@ -44,7 +44,6 @@ The primary goal of this project is to develop and evaluate classification model
 - `Text_Mining_Project_Report_Cha.pdf` – Full project report detailing methodology, analysis, and findings
 - `Text_Mining.csv` – Preprocessed dataset used for training and testing
 - `Fake_News_Detection.knwf` – KNIME workflow file
-- *(Optional)* `screenshots/` – Workflow and model output visuals
 
 ## Business Impact
 This solution has potential applications in:
